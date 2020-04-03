@@ -1,6 +1,6 @@
 #!/bin/sh
 
-[[ ! $1 ]] && exit
+[[ ! $1 ]] && echo "need version number" && exit
 
 # copy the whole folder
 cp -r paperchest "paperchest_$1"

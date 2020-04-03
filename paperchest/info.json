@@ -5,7 +5,7 @@
     "title": "Paper Chest",
     "author": "Zengineer",
     "contact": "zengineer@endocluster.com",
-    "homepage": "",
+    "homepage": "https://github.com/ZengineerIO/factorio-paperchest/",
     "dependencies": [
       "base >= 0.18.17",
       "? angelsbioprocessing",

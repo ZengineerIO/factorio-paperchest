@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.0
+Version: 0.2.1
 Date: 03. 04. 2020
-  Features:
-    - Added cellulose fiber chest with even less storage.
+  Info:
+    - Added homepage link (github) in info.json.
