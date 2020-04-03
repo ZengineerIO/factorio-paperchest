@@ -7,7 +7,7 @@
     "contact": "zengineer@endocluster.com",
     "homepage": "https://github.com/ZengineerIO/factorio-paperchest/",
     "dependencies": [
-      "base >= 0.18.17",
+      "base >= 0.18.10",
       "? angelsbioprocessing",
       "? SeaBlock"
     ],

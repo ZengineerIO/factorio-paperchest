@@ -3,3 +3,4 @@ Version: 0.2.1
 Date: 03. 04. 2020
   Info:
     - Added homepage link (github) in info.json.
+    - reduced base dependency to 0.18.10 to have the same as SeaBlock
