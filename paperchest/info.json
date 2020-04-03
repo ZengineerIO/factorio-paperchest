@@ -1,0 +1,16 @@
+{
+    "name": "paperchest",
+    "version": "0.2.0",
+    "factorio_version": "0.18",
+    "title": "Paper Chest",
+    "author": "Zengineer",
+    "contact": "zengineer@endocluster.com",
+    "homepage": "",
+    "dependencies": [
+      "base >= 0.18.17",
+      "? angelsbioprocessing",
+      "? SeaBlock"
+    ],
+    "description": "Adds a paper and a cellulose fiber chest, because wood might be to precious. Made for SeaBlock."
+  }
+  
