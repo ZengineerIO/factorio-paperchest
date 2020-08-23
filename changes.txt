@@ -1,8 +1,0 @@
----------------------------------------------------------------------------------------------------
-Version: 0.2.1
-Date: 03. 04. 2020
-  Features:
-    - Option for even smaller storage sizes added. (fiber chest: 5 -> 1, paper chest: 10 -> 5) THIS WILL BE DEFAULT ENABLED IN NEXT RELEASE!
-  Info:
-    - Added homepage link (github) in info.json.
-    - reduced base dependency to 0.18.10.

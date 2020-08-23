@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 03. 04. 2020
+  Changes:
+    - Updated to base game 1.0
+    - Added the bits of code to make use of the remnant sprites.
+    - HR and normal sprites are now correctly utilized.
+    - Moved chests to Angel's Logistics crafting group, if Angel's Industries is installed.
+  Info:
+    - Option for even smaller storage sizes is now default enabled, as mentioned.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.1
 Date: 03. 04. 2020
   Features:
