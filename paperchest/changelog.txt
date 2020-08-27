@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 27. 08. 2020
+  Changes:
+    - Decreased mining time by 90%. I'm sorry if anyone was annoyed by that, now it's like any other container.
+    - Adjusted volume on sounds to be more in line with base game.
+    - Shifted sprites by a pixel or two so they line up correctly with the wooden chest.
+    - Decreased health of both chests to 50.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.2
 Date: 23. 08. 2020
   Changes:
